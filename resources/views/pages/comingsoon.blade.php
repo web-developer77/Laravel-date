@@ -12,8 +12,8 @@
 	  <link href="{{asset('css/coming-sssoon.css')}}" rel="stylesheet" />    
     
     <!--     Fonts     -->
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
   
 </head>
 
@@ -32,27 +32,6 @@
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-            <li>
-                <a href="#"> 
-                    <i class="fa fa-facebook-square"></i>
-                    Share
-                </a>
-            </li>
-             <li>
-                <a href="#"> 
-                    <i class="fa fa-twitter"></i>
-                    Tweet
-                </a>
-            </li>
-             <li>
-                <a href="#"> 
-                    <i class="fa fa-envelope-o"></i>
-                    Email
-                </a>
-            </li>
-       </ul>
-      
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>

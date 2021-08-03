@@ -9,7 +9,7 @@
     
     <title>Coming Soon Page </title>
     <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}">
-	  <link href="{{asset('css/coming-sssoon.css')}}" rel="stylesheet" />    
+	  <link href="{{asset('css/pages/comingsoon/coming-sssoon.css')}}" rel="stylesheet" />    
     
     <!--     Fonts     -->
     <link href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
@@ -76,7 +76,8 @@
     </div>
  </div>
  </body>
-   <script src="{{asset('js/jquery-1.10.2.js')}}" type="text/javascript"></script>
+   <script src="{{asset('js/jquery-3.6.0.min.js')}}" type="text/javascript"></script>
    <script src="{{asset('js/bootstrap.min.js')}}" type="text/javascript"></script>
+   <script src="{{asset('js/pages/comingsoon/comingsoon.js')}}" type="text/javascript"></script>
 
 </html>

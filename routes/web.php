@@ -11,8 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::get('/comingsoon', 'MainController@comingsoon');
+Route::get('/', 'MainController@comingsoon');
